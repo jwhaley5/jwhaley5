@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jwhaley5
-- 👀 I’m interested in React.js and CSS
+- 👀 I’m interested in React.js/Next.js and front end Web Development
 - 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on open source front end libraries
-- 📫 How to reach me johnWwhaley@gmail.com
+- 📫 You can reach me at johnWwhaley@gmail.com
 
 <!---
 jwhaley5/jwhaley5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
