@@ -1,6 +1,6 @@
-Hey there, welcome to my github page, most of my repos are private, but reach out if you'd like to chat about projects.
+Hey there! 👋 Welcome to my GitHub
+Most of my repositories are private, but feel free to reach out if you'd like to chat about projects!
 
-<!---
-jwhaley5/jwhaley5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in TypeScript and AWS, with a passion for building seamless and engaging user experiences—whether on the web or directly on physical devices. I enjoy solving complex problems, optimizing performance, and creating intuitive interfaces that make technology feel effortless.
+
+Let’s connect and build something great together! 🚀
